@@ -1,0 +1,12 @@
+reports/
+*.log
+*.html
+*.json
+*.csv
+.env
+.env.*
+secrets/
+credentials/
+__pycache__/
+*.pyc
+*-venv/
